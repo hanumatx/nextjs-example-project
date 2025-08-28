@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mev2hkztgmibw9c151l",
+    "name": "Hanumat ",
+    "email": "ninjagamet713@gmail.com",
+    "password": "$2b$12$OFYfU84E97GTzdOlcAKN1OGF24864cEZq2GADwScP6c8PKcIdWVnS",
+    "createdAt": "2025-08-28T07:13:13.865Z",
+    "updatedAt": "2025-08-28T07:13:13.865Z"
+  },
+  {
+    "id": "mev2jcgz2s66r12py9f",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "$2b$12$oa/aglKtDhAHPz2vIn4aCuxaQWsnUAMIuc0N9rhRI15ccB0ueLuIu",
+    "createdAt": "2025-08-28T07:14:36.131Z",
+    "updatedAt": "2025-08-28T07:14:36.131Z"
+  },
+  {
+    "id": "mev2ztb03gz917t7jwg",
+    "name": "Ayushi Dwivedi ",
+    "email": "ayushidwivedi789@gmail.com",
+    "password": "$2b$12$oLMr4mbJwPqemI5Ja5VMXevw.aBhrj2MvQR6wWlwJQzy.u1M95z06",
+    "createdAt": "2025-08-28T07:27:24.444Z",
+    "updatedAt": "2025-08-28T07:27:24.444Z"
+  }
+]
