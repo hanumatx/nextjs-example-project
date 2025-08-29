@@ -3,6 +3,5 @@
   "/api/auth/me/route": "app/api/auth/me/route.js",
   "/bus-tracking/page": "app/bus-tracking/page.js",
   "/login/page": "app/login/page.js",
-  "/page": "app/page.js",
-  "/signup/page": "app/signup/page.js"
+  "/page": "app/page.js"
 }
